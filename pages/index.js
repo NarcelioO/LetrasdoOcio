@@ -25,8 +25,7 @@ function Home(){
              <Container/>
                <Sumario/>
                 
-                <a className={styles.link}><Post titulo="<----- Filho Malcriado
-  ----->"/></a>
+                
                 <Link href="/minhaqueridafe">
                 <a className={styles.link}><Post titulo="<----- Minha Querida Fé ----->"/></a>
                 </Link>
