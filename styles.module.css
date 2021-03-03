@@ -169,7 +169,7 @@ align-items: center;
     margin: 0 auto;
     padding: 20px;
     color: #f0e6d2;
-    text-align:justify;
+    text-align:center;
     font-size: calc(15px + (8/1200) * 100 * 1vw);
    
     
