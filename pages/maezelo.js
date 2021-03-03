@@ -29,7 +29,7 @@ export default function MaeZelo() {
         <div className={styles.mono}>
             <p>
             Vejo seus filhos, meus irmãos, e inclusive eu, desobedecendo você, querida mãe. Isso faz de nos 
-            crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons de 
+            crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons 
             em que?
             </p>
             <p>
@@ -44,7 +44,11 @@ export default function MaeZelo() {
               O Medo.
             </p>
             <p>
+
             O medo de tudo que ainda não se tinha aprendido a não temer, era o que tornava sua estadia em qualquer lugar possível. Isso era tudo que nossa mãe nos ensinava com suas histórias, feras selvagens, plantas carnívoras, monstros das profundezas dos mares, abismos infinitos, e até a nossa própria mente... eram as coisas que ela contava para nos manter alerta, coisas que mesmo que talvez nunca fossemos fazer, ela garantia de preencher com elemento do terror.
+
+            O medo de tudo que ainda não se tinha aprendido a não temer, era o que tornava sua estadia em qualquer lugar possível. Isso era tudo que nossa mãe nos ensinava com suas histórias, feras selvagens, plantas carnívoras, monstros das profundezas dos mares, abismos infinitos, e até perigos da nossa própria mente eram as coisas que ela contava para nos manter alerta, coisas que mesmo que talvez nunca fossemos fazer, ela garantia de preencher com elemento do terror.
+
             </p>
         </div>
         </center>
