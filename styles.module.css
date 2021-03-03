@@ -160,7 +160,7 @@ border-bottom: solid #8d8776 1px ;
     text-align: justify;
     letter-spacing:1px;
     line-height:24px;
-    font-size: 1.3em;
+    font-size: calc(15px + (8/1200) * 100 * 1vw);
    
     
 
