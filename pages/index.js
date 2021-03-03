@@ -25,9 +25,13 @@ function Home(){
              <Container/>
                <Sumario/>
                 
+<<<<<<< HEAD
                <Link href="/maezelo">
                 <a className={styles.link}><Post titulo="<----- Mãe Zelosa ----->"/></a>
                 </Link>
+=======
+                
+>>>>>>> c3df532c8c1c9aa80340d15ad560582b2374cb84
                 <Link href="/minhaqueridafe">
                 <a className={styles.link}><Post titulo="<----- Minha Querida Fé ----->"/></a>
                 </Link>
