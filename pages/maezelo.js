@@ -29,7 +29,7 @@ export default function MaeZelo() {
         <div className={styles.mono}>
             <p>
             Vejo seus filhos, meus irmãos, e inclusive eu, desobedecendo você, querida mãe. Isso faz de nos 
-            crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons de 
+            crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons 
             em que?
             </p>
             <p>
