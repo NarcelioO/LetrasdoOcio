@@ -109,7 +109,7 @@ border-radius: 10px;;
 
 .castigo{
     background-color: #121315;
-   width:100%;
+  
     
 }
 
@@ -157,10 +157,10 @@ border-bottom: solid #8d8776 1px ;
     width: 45%;
     margin-top:2em;
     color: #f0e6d2;
-    text-align: center;
+    text-align: justify;
     letter-spacing:1px;
     line-height:24px;
-    font-size: 1.3em;
+    font-size: calc(15px + (8/1200) * 100 * 1vw);
    
     
 
