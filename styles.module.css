@@ -152,19 +152,24 @@ border-bottom: solid #8d8776 1px ;
 }
 .mono{
     
-    font-family: Century,'Times New Roman', Times, serif;
-    
+    font: 16px/1.4 Century,'Times New Roman', Times, serif;
+    max-width: 1200px;  
     width: 45%;
-    margin-top:2em;
+    margin: 0 auto;
+    padding: 20px;
     color: #f0e6d2;
-    text-align: justify;
-    letter-spacing:1px;
-    line-height:24px;
     font-size: calc(15px + (8/1200) * 100 * 1vw);
    
     
 
 }
+@media screen and (min-width: 500px) {
+    .tudo {
+      font-size: calc(16px + (8/1200) * 100 * 1vw);
+      background: #ffe;
+    }
+  }
+  
 .footer{
     background-color:#121315 ;
     width: 100%;
