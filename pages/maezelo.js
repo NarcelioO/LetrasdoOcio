@@ -28,17 +28,17 @@ export default function MaeZelo() {
        
         <div className={styles.mono}>
             <p>
-            Vejo seus filhos, meus irmãos, e inclusive eu, desobedecendo você, querida mãe. Isso nos fazem 
-            ser crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons de 
+            Vejo seus filhos, meus irmãos, e inclusive eu, desobedecendo você, querida mãe. Isso faz de nos 
+            crianças más? Ou isso é o que você instiga, com o intuito de nos fazer crescer bons? Bons de 
             em que?
             </p>
             <p>
-            A nossa mãe não surgiu com intuito algum, além de multiplicar, multiplicar a chances dela 
+            A nossa mãe não surgiu com intuito algum, além de multiplicar, multiplicar as chances dela 
             mesma continuar a existir, e existir em qualquer lugar ela iria. Ela não precisa de consciência, de
             proposito, ela só precisa de métodos, métodos para continuar a existir.
             </p>
             <p>
-            Sem forma, sem nome, sem cor, e sem odor, ela se imbuiu da primeira e única coisa que no inconsciente, complexo, e vago sentido de existência, jugou ser necessário:
+            Sem forma, sem nome, sem cor, e sem odor, ela se imbuiu da primeira e única coisa que no inconsciente, complexo, e vago sentido de sua existência, jugou ser necessário:
             </p>
             <p>
               O Medo.
